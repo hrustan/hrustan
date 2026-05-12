@@ -33,5 +33,4 @@ Previously a software engineer at **Capital One**, embedded as product lead on D
 ## Connect
 
 - **LinkedIn:** [linkedin.com/in/harrison-rustan](https://linkedin.com/in/harrison-rustan)
-- **Email:** harrison[dot]rustan[at]my[dot]utexas[dot]edu
-- **Based in:** Austin, TX
+- **Email:** harrison[dot]rustan[at]my.utexas.edu
