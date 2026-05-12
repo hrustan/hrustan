@@ -25,7 +25,7 @@ Previously a software engineer at **Capital One**, embedded as product lead on D
 ## Tech
 
 **Languages:** Python · TypeScript · JavaScript · SQL
-**Cloud & infrastructure:** AWS · Docker · GitHub Actions · Terraform
+**Cloud & infrastructure:** AWS · Docker · GitHub Actions
 **Frontend:** React · Next.js
 **Backend:** Node.js · FastAPI · PostgreSQL
 **Certifications:** AWS Certified Solutions Architect – Associate
