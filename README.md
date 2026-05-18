@@ -1,7 +1,5 @@
 # Harrison Rustan
 
-Product-focused engineer turning builder instincts into business impact.
-
 ## Background
 
 MBA candidate at **UT Austin’s McCombs School of Business** (Class of 2027), concentrating in Product Management and Finance. McCombs Tech Group Fellow and Graduate Consulting Group Fellow.
