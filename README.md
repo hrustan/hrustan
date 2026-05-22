@@ -15,7 +15,7 @@ MBA candidate at **UT Austin’s McCombs School of Business** (Class of 2027 �
 ## Tech
 
 - **Languages:** Python · TypeScript · JavaScript · SQL
-- **Cloud & infrastructure:** AWS · Docker · GitHub Actions · Supabase
+- **Cloud & infrastructure:** AWS · Docker · GitHub Actions · Supabase · Resend · Turnstile
 - **Frontend:** React · Next.js · Astro · Vercel
 - **Backend:** Node.js · FastAPI · PostgreSQL
 - **Certifications:** AWS Certified Solutions Architect – Associate
