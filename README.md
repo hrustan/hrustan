@@ -1,24 +1,22 @@
 # Harrison Rustan
 
-## About me 
+## About
 
-MBA candidate at **UT Austin’s McCombs School of Business** (Class of 2027 🤘), concentrating in Product Management and Finance. Will be joining **Google** as a Product Manager intern this summer. Previously a software engineer at **Capital One** on Dealer Navigator and Internal Developer Platform teams.
+MBA candidate at **UT Austin’s McCombs School of Business** (Class of 2027 🤘). Will be joining **Google** as a Product Manager intern this summer. Previously a software engineer at **Capital One** on the Dealer software and Internal Developer Platform teams.
 
 ## Projects
 
-- **[Resumic.xyz](https://resumic.xyz)**
-  - A website that scrapes popular job boards, tailors resumes using job descriptions, automatically applies to roles, and filters/ranks job postings.
-- **[Cohort.report](https://cohort.report)**
-  - A website that displays MBA admissions information across programs and allows for quick, seamless comparison between program outcomes and class profiles.
-- **[Kibata Wealth](https://www.kibatawealth.com/)**
+- **[Harrison-rustan.com](https://harrison-rustan.com)**: My personal website where you can follow my latest adventues and side projects.
+- **[Resumic.xyz](https://resumic.xyz)**: A website that scrapes popular job boards, tailors resumes using job descriptions and automatically applies to roles.
+- **[Cohort.report](https://cohort.report)**: A website that displays MBA admissions information across programs and allows for quick, seamless comparison between program outcomes and class profiles.
 
 ## Tech
 
-- **Languages:** Python · TypeScript · JavaScript · SQL
-- **Cloud & infrastructure:** AWS · Docker · GitHub Actions · Supabase · Resend · Turnstile
-- **Frontend:** React · Next.js · Astro · Vercel
-- **Backend:** Node.js · FastAPI · PostgreSQL
-- **Certifications:** AWS Certified Solutions Architect – Associate
+- **Product Skills**: Product Discovery, User Research, A/B Testing, KPI Ownership, Product Roadmapping,
+Requirements Definition, Prioritization (RICE), Journey Mapping, Product Analytics
+- **Technical Skills**: JavaScript/TypeScript, React, SolidJS, SQL, Python, Node.js, Supabase, GitHub Actions, Resend, Turnstile
+- **Tools**: Figma, Lovable, Jira, Tableau/Power BI, Confluence, Claude Code, Google Gemini
+- **Certifications**: AWS Solutions Architect - Associate (2023)
 
 ## Connect
 
