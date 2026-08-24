@@ -2,7 +2,11 @@
 
 ## About
 
-MBA candidate at **UT Austin’s McCombs School of Business** (Class of 2027 🤘). Will be joining **Google** as a Product Manager intern this summer. Previously a software engineer at **Capital One** on the Dealer software and Internal Developer Platform teams.
+Engineer and product manager building at the intersection of fintech, developer tools, and AI.
+
+I spent three years as a software engineer at Capital One before moving to product, working on dealer-facing fintech products and internal developer platforms from discovery through launch. One was a virtual accessories checkout experience that drove $25.2M in annualized revenue.
+
+This summer I was a PM intern on Google's Core AI PMO team, defining product vision and roadmap for an infrastructure migration across enterprise-scale systems.
 
 ## Projects
 
