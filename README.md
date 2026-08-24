@@ -25,4 +25,4 @@ Requirements Definition, Prioritization (RICE), Journey Mapping, Product Analyti
 ## Connect
 
 - **LinkedIn:** [linkedin.com/in/harrison-rustan](https://linkedin.com/in/harrison-rustan)
-- **Email:** harrisonrustan[at]gmail[dot]com
+- **Email:** harrison.rustan@my[dot]utexas[dot]edu
